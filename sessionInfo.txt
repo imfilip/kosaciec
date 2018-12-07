@@ -1,0 +1,20 @@
+R version 3.3.3 (2017-03-06)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows >= 8 x64 (build 9200)
+
+locale:
+[1] LC_COLLATE=Polish_Poland.1250  LC_CTYPE=Polish_Poland.1250    LC_MONETARY=Polish_Poland.1250 LC_NUMERIC=C                   LC_TIME=Polish_Poland.1250    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forcats_0.3.0       stringr_1.3.1       dplyr_0.7.4         purrr_0.2.4         readr_1.1.1         tidyr_0.8.0         tibble_1.4.2       
+ [8] tidyverse_1.2.1     data.table_1.10.4-3 ggplot2_3.0.0      
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.16     cellranger_1.1.0 pillar_1.3.0     plyr_1.8.4       bindr_0.1.1      tools_3.3.3      digest_0.6.14    lubridate_1.7.4  jsonlite_1.5    
+[10] gtable_0.2.0     nlme_3.1-131     lattice_0.20-35  pkgconfig_2.0.2  rlang_0.2.0      cli_1.0.1        rstudioapi_0.8   yaml_2.1.18      haven_1.1.1     
+[19] bindrcpp_0.2.2   xml2_1.2.0       withr_2.1.2      httr_1.3.1       generics_0.0.2   hms_0.4.2        grid_3.3.3       glue_1.2.0       R6_2.3.0        
+[28] readxl_1.1.0     modelr_0.1.2     magrittr_1.5     scales_0.5.0     backports_1.1.2  rvest_0.3.2      assertthat_0.2.0 colorspace_1.3-2 labeling_0.3    
+[37] stringi_1.1.7    lazyeval_0.2.1   munsell_0.5.0    broom_0.5.1      crayon_1.3.4    
